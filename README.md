@@ -184,7 +184,7 @@ python app.py
 
 **Note:** The repository must contain `app.py`, `requirements.txt`, and any required supporting files for these instructions to work. Replace `YOUR_USERNAME` with your GitHub username.
 
-## 🔐 API Key Security
+##  API Key Security
 
 The application uses a Groq API key for language-model inference.
 
@@ -192,13 +192,13 @@ The application uses a Groq API key for language-model inference.
 - For Hugging Face Spaces, add it under **Settings → Variables and secrets → Secrets**.
 - Never commit API keys, credentials, or private documents to a public repository.
 
-## 📌 Project Status
+##  Project Status
 
 **Status:** Learning project — core RAG pipeline implemented and tested in Google Colab; public deployment and interface testing are ongoing.
 
 This repository documents my hands-on learning journey in Retrieval-Augmented Generation, PDF data extraction, hybrid search, and LLM-powered document question answering.
 
-## 👩‍💻 Author
+##  Author
 
 Built as a hands-on project to learn and experiment with RAG systems, document processing, information retrieval, and LLM-powered applications.
 
